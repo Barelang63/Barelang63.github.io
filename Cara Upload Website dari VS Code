@@ -1,0 +1,5 @@
+Update coding dari VS Code ke Webhosting
+1. git status (Memeriksa file yang di update)
+2. git add nama file atau .(git add . adalah perintah untuk menambahkan seluruh file dalam satu folder)
+3. git commit -m "Deklarasi codingan yang di edit"
+4. git push (Upload coding yang di edit ke Website)
